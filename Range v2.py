@@ -1,0 +1,1 @@
+print(list(range(9, 0, -2)))
